@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu  xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/action_clear"
+          android:title="@string/action_clear"
+          />
+    <item android:id="@+id/draw_rects"
+          android:title="@string/draw_rects"
+    />
+    <item android:id="@+id/drawShape"
+    android:title="@string/drawShape">
+
+    </item>
+</menu>

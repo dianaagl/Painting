@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Painting</string>
+
+    <string name="action_clear">Clear</string>
+    <string name="draw_rects">Прямоугольники</string>
+    <string name="drawShape">Нарисовать фигуру</string>
+</resources>

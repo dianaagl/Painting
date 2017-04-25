@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="default_paint_width">8dp</dimen>
+    <dimen name="default_rect_width">120dp</dimen>
+    <dimen name="default_rect_height">70dp</dimen>
+    <dimen name="shape_height">50dp</dimen>
+    <dimen name="shape_width">90dp</dimen>
+</resources>
